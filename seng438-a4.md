@@ -8,9 +8,11 @@
 
 > Department of Electrical and Software Engineering
 
-> University of Calgary
+> University of Calgary 
 
-**Due Date: TBD**
+> Winter 2023
+
+>**Due Date: March 17th 2023**
 
 > **Summary:
 > Part 1:**
@@ -77,7 +79,7 @@ Similar to assignments 2 and 3, the system to be tested for this part is JFreeCh
 
 1.  In your Eclipse select Help, go to Eclips Marketpalce, and find Pitest Plugin by copy and paste the following link: https://marketplace.eclipse.org/content/pitclipse
 
-2.  Follow the installation process. Note: Run Eclipse “as administrator” in Windows, click on preferences, on the left side click on Pitest and then select Mutators, choose All mutators, and finally apply and close.
+2.  Follow the installation process. Note: Run Eclipse “as administrator” in Windows, click on preferences, on the left side click on Pitest and then select Mutators, choose All mutators, and finally apply and close. If you can not find preferences trough window tab you can simply look for it in the search (up right corner). The latest **version is Pitclips 2.2.0**
 
 ![](./media/2-Preferances.png)
 
@@ -170,11 +172,11 @@ The main objective of this part of the assignment is to familiarize students wit
 
 In this assignment, you will mainly use Selenium web-interface testing tool to test one of the following websites.
 
-- Sportchek Page
+- Costco page
 
-- Walmart Page
+- Amazon Page
 
-- Best Buy Page
+- IKEA Page
 
 You will also explore this alternative tool: Sikulix (http://sikulix.com/quickstart/)
 
