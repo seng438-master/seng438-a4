@@ -170,7 +170,7 @@ In this assignment, you will mainly use Selenium web-interface testing tool to t
 
 - ebay page
 
-- Walmart Page
+- Samsung Page
 
 - TSC Page
 
