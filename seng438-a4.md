@@ -168,11 +168,11 @@ The main objective of this part of the assignment is to familiarize students wit
 
 In this assignment, you will mainly use Selenium web-interface testing tool to test one of the following websites.
 
-- Costco page
+- ebay page
 
-- Amazon Page
+- Walmart Page
 
-- IKEA Page
+- TSC Page
 
 You will also explore this alternative tool: Sikulix (http://sikulix.com/quickstart/)
 
