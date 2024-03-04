@@ -248,7 +248,7 @@ A portion of the grade for the lab report will be allocated to organization and 
 
 # 5 REFERENCES
 
-[1] J. O. Yu-Seung Ma, "Description of Class Mutation Operators for Java,"2005\.(http://cs.gmu.edu/\~offutt/mujava/mutopsClass.pdf)
+[1] J. O. Yu-Seung Ma, "Description of Class Mutation Operators for Java,"2005\.(https://cs.gmu.edu/~offutt/mujava/mutopsClass.pdf)
 
 [2] J. O. Yu-Seung Ma, "Description of Method-level Mutation Operators for Java," 2005. (http://cs.gmu.edu/\~offutt/mujava/mutopsMethod.pdf)
 
