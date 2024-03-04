@@ -51,11 +51,11 @@ The purpose of the first part of this assignment is to give students hands-on ex
 
 After completing part 1, students will:
 
-- gain an understanding of what mutation testing is and why it is useful
+- Gain an understanding of what mutation testing is and why it is useful
 
-- be able to measure the mutation score of their test suites in order to analyze the results
+- Be able to measure the mutation score of their test suites in order to analyze the results
 
-- become familiar with the use of a mutation testing tool
+- Become familiar with the use of a mutation testing tool
 
 ## 2.2 TESTING TOOLS
 
@@ -231,7 +231,6 @@ Students will be required to submit a report on their work in the lab as a group
 A portion of the grade for the lab report will be allocated to organization and clarity. The report marking scheme is as follows:
 
 | **Mutation Testing (50)**                                                                                                                                         |     |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
 | Analysis of at least 10 mutants produced by Pitest for the `Range` class, and how they are killed or not by your original test suite                              | 10  |
 | All the statistics and the mutation score for each of the mutated classes (`Range` and `DataUtilities`) with each test suite class (original and the updated one) | 20  |
 | A discussion on the effect of equivalent mutants on mutation score accuracy including a discussion on how equivalent mutants could be detected                    | 10  |
