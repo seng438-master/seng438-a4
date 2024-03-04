@@ -167,11 +167,11 @@ The main objective of this part of the assignment is to familiarize students wit
 
 In this assignment, you will mainly use Selenium web-interface testing tool to test one of the following websites.
 
-- ebay page
+- ebay page (www.ebay.ca)
 
-- Samsung Page
+- Samsung Page (www.samsung.com/ca/)
 
-- TSC Page
+- TSC Page (www.tsc.ca)
 
 You will also explore this alternative tool: Sikulix (http://sikulix.com/quickstart/)
 
